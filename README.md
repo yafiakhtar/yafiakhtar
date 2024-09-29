@@ -6,4 +6,4 @@ I am interested in Web Development and Game Design, but I am open to exploring n
 
 I am currently learning ReactJS.
 
-                                  ⚽  🎮  🏃  🏊‍♂️  📖  🔢
+⚽  🎮  🏃  🏊‍♂️  📖  🔢
