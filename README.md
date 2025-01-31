@@ -4,6 +4,4 @@ B.S. in Computer Science, Minor in Mathematics from The Pennsylvania State Unive
 
 I am interested in Web Development, Game Design, and Machine Learning.
 
-I am currently learning ReactJS.
-
 ⚽  🎮  🏃  🏊‍♂️  📖  🔢 
